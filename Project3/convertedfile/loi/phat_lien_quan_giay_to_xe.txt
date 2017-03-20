@@ -1,0 +1,73 @@
+﻿1
+Không mang theo Giấy phép lái xe (Bằng lái xe) (trừ lỗi thứ 8 và 9 ở Bảng này)
+điểm c, khoản 2, Điều 21
+80.000đ - 120.000đ
+2
+Không mang theo Giấy đăng ký xe (Cà vẹt xe)
+điểm b, khoản 2, Điều 21
+80.000đ - 120.000đ
+3
+Không mang theo Giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới
+điểm a, khoản 2, Điều 21
+80.000đ - 120.000đ
+4
+Không có Giấy phép lái xe (Điều khiển xe dưới 175cm3)
+Điểm a khoản 5, Điều 21
+800.000 - 1,2 triệu đồng;
+5
+Không có GPLX (Điều khiển xe từ 175cm3 trở lên)
+điểm b khoản 7 Điều 21
+4 - 6 triệu đồng;
+6
+Không có Giấy đăng ký xe
+điểm a, khoản 3, Điều 17
+300.000đ - 400.000đ
+7
+Không có Giấy chứng nhận bảo hiểm TNDS của chủ xe cơ giới
+điểm a, khoản 2, Điều 21
+80.000đ - 120.000đ
+8
+Điều khiển xe dưới 175cm3  có Giấy phép lái xe quốc tế do các nước tham gia Công ước về Giao thông đường bộ năm 1968 cấp (trừ GPLX quốc tế do Việt Nam cấp) nhưng không mang theo GPLX quốc gia
+Điểm b khoản 5, Điều 21
+800.000 - 1,2 triệu đồng;
+9
+Điều khiển xe từ 175cm3 trở lên có GPLX quốc tế do các nước tham gia Công ước năm 1968 cấp   (trừ GPLX do Việt Nam cấp) nhưng không mang theo GPLX quốc gia
+điểm c khoản 7 Điều 21
+4 - 6 triệu đồng
+10
+Điều khiển xe từ 175cm3 trở lên có GPLX nhưng không phù hợp với loại xe đang điều khiển
+điểm a khoản 7 Điều 21
+4 - 6 triệu đồng
+11
+Điều khiển xe từ 175cm3 trở lên có GPLX hết hạn sử dụng 6 tháng trở lên
+điểm a khoản 7 Điều 21
+4 - 6 triệu đồng
+12
+Sử dụng Giấy đăng ký xe đã bị tẩy xóa
+điểm b, khoản 3, Điều 17
+300.000đ - 400.000đ; tịch thu Giấy đăng ký xe
+13
+Điều khiển xe dưới 175cm3 sử dụng GPLX bị tẩy xóa
+Điểm a khoản 5, Điều 21
+800.000 - 1,2 triệu đồng; tịch thu GPLX
+14
+Điều khiển xe từ 175cm3 trở lên GPLX bị tẩy xóa
+điểm b khoản 7, Điều 21
+4 - 6 triệu đồng; tịch thu GPLX
+15
+Sử dụng GPLX (điều khiển xe dưới 175cm3)
+Điểm a khoản 5, Điều 21
+800.000 - 1,2 triệu đồng; tịch thu GPLX
+16
+Sử dụng GPLX (điều khiển xe từ 175cm3 trở lên)
+điểm b khoản 7, Điều 21
+4 - 6 triệu đồng; tịch thu GPLX
+17
+Sử dụng Giấy đăng ký xe
+điểm b, khoản 3, Điều 17
+300.000đ - 400.000đ; tịch thu Giấy đăng ký xe
+18
+Sử dụng Giấy đăng ký xe không đúng số khung, số máy của xe
+điểm b, khoản 3, Điều 17
+300.000đ - 400.000đ; tịch thu Giấy đăng ký xe
+

@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<test>
+		<question>đi <tv>ô tô</tv> <a>chuyển hướng không nhường cho người đi bộ</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>chuyển hướng</a> <tv>ô tô</tv> <a>không nhường người đi bộ</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không nhường đường cho người khuyết tật</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không nhường người khuyết tật</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>đi <tv>ô tô</tv> <a>không nhường đường cho xe thô sơ</a> khi <a>chuyển hướng</a> <qt>phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không nhường xe thô sơ</a> <qt>phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <a>không có tín hiệu báo</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> xe <tv>ô tô</tv> mà <a>không có báo hiệu</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đỗ nhưng không báo hiệu</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> xe <tv>ô tô</tv> <a>chiếm một phần đường</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chiếm một phần đường</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> xe <tv>ô tô</tv> mà <a>không đặt biển báo nguy hiểm</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>không gắn biển báo hiệu ở phía trước</a> <tv>xe kéo</tv> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe kéo</tv> <a>không có báo hiệu phía trước</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>không gắn biển báo hiệu ở phía sau</a> <tv>xe bị kéo</tv> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe bị kéo</tv> mà <a>không có biển báo phía sau</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>xe rơ moóc</tv> <a>không có biển báo hiệu</a> theo quy định <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe rơ moóc</tv> <a>không có biển báo</a> theo quy định <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>không giữ khoảng cách an toàn với xe đi trước</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm g khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không giữ khoảng cách an toàn</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm g khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá gần với xe đi trước</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm g khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đi quá gần với xe đằng trước</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm g khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>không nhường đường</a> ở <l>ngã 3</l>, <l>ngã tư</l>, <l>nơi đường bộ giao nhau</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không nhường đường</a> ở <l>ngã 3</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không nhường đường</a> ở <l>ngã 4</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không nhường đường</a> ở <l>nơi giao nhau</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm h khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>bấm còi không trong thời gian quy định</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>Bấm còi trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau: 100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>bấm còi</a> <tv>ô tô</tv> lúc <if4>4h sáng</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>Bấm còi trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau: 100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm i khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>đi xe <tv>ô tô</tv> <if3>không thắt dây an toàn</if3> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm k khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>không thắt dây an toàn</if3> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm k khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người ngồi trên xe</tp> <tv>ô tô</tv> <if3>không thắt dây an toàn</if3> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm l khoản 1 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>đi <tv>ô tô</tv> <a>chuyển làn không đúng nơi cho phép</a> <tv>bị <qt>phạt bao nhiêu tiền</qt></tv>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chuyển làn sai chỗ</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>đi <tv>ô tô</tv> <a>chuyển làn không có tín hiệu thông báo</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chuyển làn không báo trước</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm a khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái xe <tv>ô tô</tv> <a>chậm hơn các xe khác cùng chiều mà không đi về bên phải</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm b khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chạy chậm giữa đường</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm b khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>chở quá số người quy định</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm c khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chở quá nhiều người</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm c khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>chở quá số người</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm c khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>đi <tv>ô tô</tv> <a>không giảm tốc độ</a> khi <a>chạy từ ngõ ra</a> thì <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm d khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chạy nhanh từ ngõ ra</a> thì <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm d khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>đi <tv>ô tô</tv> <a>không giảm tốc độ</a> khi <a>chạy từ đường nhánh ra</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm d khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chạy nhanh ra đường chính</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm d khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>không nhường đường cho xe xin vượt</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không nhường cho xe muốn vượt</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển <tv>ô tô</tv> <a>không nhường cho xe trên đường ưu tiên</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không nhường cho xe trên đường ưu tiên</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>lắp đặt thiết bị phát tín hiệu ưu tiên không đúng quy định</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>lắp còi ưu tiên không được phép</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>sử dụng thiết bị phát tín hiệu ưu tiên không có giấy phép</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>không có giấy phép sử dụng thiết bị ưu tiên</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>sử dụng thiết bị phát tín hiệu ưu tiên trái phép</a> <qt>phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm e khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>tại phần đường dành cho xe chạy</l> ở <l>ngoài thành phố</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên đường</l> ở <l>ngoài thành phố</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>tại phần đường dành cho xe chạy</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên đường</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>tại phần đường dành cho xe chạy</l> ở <l>ngoài thành phố</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>tại phần đường dành cho xe chạy</l> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <a>ngược với chiều của làn đường</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <a>ngược chiều làn đường</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>ngược với chiều của làn đường</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>ngược chiều làn đường</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên dốc</l> <a>không chèn bánh</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đỗ</a> <l>giữa dốc</l> mà <a>không chèn bánh</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để cửa xe</a> <tv>ô tô</tv> <a>mở</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để mở cửa</a> <tv>ô tô</tv> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm g khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <a>không sát lề đường</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>không sát lề</a> <qt>bị phạt bao nhiêu</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <a>cách lề đường quá 0.25m</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đỗ cách lề 1m</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>trên đường xe điện</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên đường xe điện</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>trên đường xe buýt</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên đường xe buýt</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>trên miệng cống thoát nước</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên miệng cống</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>trên miệng hầm đường điện thoại</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên miệng hầm</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>trên miệng hầm đường điện cao thế</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>tại nơi lấy nước của xe cứu hỏa</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trước cột lấy nước</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>tại nơi có biển cấm đỗ</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>tại nơi bị cấm</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>tại nơi có biển cấm</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>không đúng nơi quy định</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>không đúng nơi</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm h khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> <a>trái quy định</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm i khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> <a>trái luật</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm i khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>ở phần đường cho người đi bộ qua đường</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> <a>sai nơi</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> <l>trên đường cho người đi bộ</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>trên cầu</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> bên <l>trên cầu</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> ở <l>đầu cầu</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> ngay <l>đầu cầu</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>tại gầm cầu vượt</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> <l>dưới gầm cầu vượt</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> tại nơi <if4>đường hẹp</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if4>đường hẹp</if4> mà <a>quay đầu</a> <tv>ô tô</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv>  tại nơi <if4>đường dốc</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><l>trên dốc</l> mà <a>quay đầu</a> <tv>ô tô</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> tại nơi <if4>đường cong</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> <if4>tại khúc cua</if4> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> <if4>tại nơi tầm nhìn bị che khuất</if4> <qt>phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> <if4>tại nơi khó quan sát</if4> <qt>phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> <if4>tại nơi có biển báo cấm quay đầu xe</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> <if4>tại nơi cấm</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> <if4>tại nơi cấm quay đầu xe</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm k khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> xe <tv>ô tô</tv> <l>trên đường một chiều</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> <tv>ô tô</tv> <l>trên đường một chiều</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> xe <tv>ô tô</tv> <if4>trên đường có biển cấm đi ngược chiều</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> <tv>ô tô</tv> <if4>trên đường cấm đi ngược chiều</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> xe <tv>ô tô</tv> <if4>tại nơi cấm đi ngược chiều</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> xe <tv>ô tô</tv> <if4>tại nơi tầm nhìn bị che khuất</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> <tv>ô tô</tv> <if4>ở nơi hạn khó quan sát</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> xe <tv>ô tô</tv> <a>không quan sát</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi <tv>ô tô</tv> mà <a>không quan sát</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> xe <tv>ô tô</tv> <a>không có tín hiệu báo trước</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>không có tín hiệu khi lùi</a> <tv>ô tô</tv> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm l khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>gây tai nạn giao thông mà không giữ nguyên hiện trường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm m khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>gây tai nạn và không giữ nguyên hiện trường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm m khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>gây tai nạn giao thông mà không tham gia cấp cứu người bị nạn</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm m khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>gây tai nạn mà không cấp cứu người bị nạn</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm m khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>gây tai nạn giao thông mà không dừng lại</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm m khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>gây tai nạn mà không dừng lại</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>300.000 đồng đến 400.000 đồng</answer>
+		<base>điểm m khoản 2 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>chạy quá tốc độ quy định</a> từ <v>5 đến 10 km/h</v> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>
+			Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng
+			Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng
+			Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng
+			Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng
+		</answer>
+		<base>điểm a khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>6km/h</v> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>
+			Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng
+			Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng
+			Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng
+			Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng
+		</answer>
+		<base>điểm a khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>quá tốc độ</a> <v>9km/h</v> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>
+			Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h: 600.000 đồng đến 800.000 đồng
+			Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h: 2.000.000 đồng đến 3.000.000 đồng
+			Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h: 5.000.000 đồng đến 6.000.000 đồng
+			Điều khiển xe chạy quá tốc độ quy định trên 35 km/h: 7.000.000 đồng đến 8.000.000 đồng
+		</answer>
+		<base>điểm a khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>bấm còi</a> <tv>ô tô</tv> <a>liên tục</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm b khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>rú ga</a> <tv>ô tô</tv> <a>liên tục</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm b khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>sử dụng đèn chiếu xa</a> <l>trong thành phố</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm b khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>bật đèn pha</a> <l>trong nội thành</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm b khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chuyển hướng không giảm tốc độ</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm c khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chuyển hướng nhanh</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm c khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chuyển hướng không có tín hiệu</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm c khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không có tín hiệu khi chuyển hướng</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm c khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <if4>tại phạm vi an toàn của đường sắt</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm d khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>gần đường sắt</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm d khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>ở bên trái đường một chiều</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đỗ</a> <l>bên trái đường một chiều</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <if4>trên đoạn đường cong</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <if4>ở khúc cua</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <if4>trên đoạn đường tầm nhìn bị che khuất</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <if4>ở đoạn đường khó quan sát</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên cầu</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>dưới gầm cầu vượt</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>song song với một xe đang đỗ</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>ngay cạnh xe khác</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>tại nơi đường giao nhau</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>tại nơi giao nhau</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>tại điểm dừng của xe buýt</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên điểm đỗ của xe buýt</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trước cổng cơ quan</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> tại <if4>đường hẹp</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if4>đường hẹp</if4> mà <a>đỗ</a> <tv>ô tô</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>che khuất biển báo hiệu</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>che khuất biển báo</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm đ khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên đường xe điện</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm e khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên miệng cống thoát nước</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm e khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên cống thoát nước</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm e khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ <tv>ô tô</tv> <l>trên hè phố</l> trái quy định <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm e khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên vỉa hè</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm e khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <if4>nơi có biển cấm</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm e khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <if4>tại nơi cấm đỗ</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm e khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>nơi dành riêng cho xe chữa cháy lấy nước</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm e khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>tại nơi lấy nước của xe chữa cháy</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm e khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không sử dụng đèn chiếu sáng</a> <if4>khi trời tối</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm g khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không bật đèn</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm g khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không bật đèn</a> <if4>khi trời tối</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm g khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không sử dụng đèn chiếu sáng</a> <if4>khi có sướng mù</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm g khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không bật đèn</a> <if4>khi có sướng mù</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm g khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không sử dụng đèn chiếu sáng</a> <if4>khi thời tiết hạn chế tầm nhìn</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm g khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không bật đèn</a> <if4>khi thời tiết xấu</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm g khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển <tv>ô tô</tv> <a>sử dụng đèn chiếu xa</a> <if4>khi tránh xe ngược chiều</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm g khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>bật đèn pha</a> <tv>ô tô</tv> <a>khi tránh xe khác</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm g khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển <tv>ô tô</tv> <a>kéo theo xe khác</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>dùng <tv>ô tô</tv> <a>kéo xe khác</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển <tv>ô tô</tv> <a>đẩy xe khác</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>dùng <tv>ô tô</tv> <a>đẩy xe khác</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển <tv>xe rơ moóc</tv> <a>kéo xe rơ moóc khác</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe rơ moóc</tv> <a>kéo xe rơ moóc</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>xe <tv>ô tô được kéo</tv> <a>chở người</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô được kéo</tv> <a>chở người</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển <tv>ô tô</tv> <a>quay đầu</a> <l>tại nơi giao nhau với đường sắt</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>quay đầu</a> <l>ở nơi giao với đường sắt</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>sử dụng điện thoại khi đang lái xe</if3> <tv>ô tô</tv> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>nghe điện thoại khi lái</if3> <tv>ô tô</tv> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>600.000 đồng đến 800.000 đồng</answer>
+		<base>điểm h khoản 3 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>bật đèn chiếu sáng xa</a> khi chạy <l>trong hầm đường bộ</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>bật đèn pha</a> <tv>ô tô</tv> <l>trong hầm</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không sử dụng đèn chiếu sáng gần</a> khi chạy <l>trong hầm đường bộ</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không dùng đèn cốt</a> <l>trong hầm</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>vượt xe</a> <l>trong hầm đường bộ</l> <a>không đúng nơi</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>vượt</a> <l>trong hầm</l> <a>không đúng chỗ</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển <tv>ô tô</tv> <a>đi vào đường cấm</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>chạy</a> <tv>ô tô</tv> <a>vào đường cấm</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển <tv>ô tô</tv> <a>đi vào khu vực cấm</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>ô tô</tv> <a>vào vùng cấm</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái xe <tv>ô tô</tv> <a>đi ngược chiều</a> <l>trên đường một chiều</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đi ngược đường một chiều</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái xe <tv>ô tô</tv> <a>đi ngược chiều</a> <l>trên đường có biển cấm đi ngược chiều</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đi ngược</a> <l>trên đường có biển cấm đi ngược chiều</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>không đi bên phải</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không đi bên phải</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>đi không đúng phần đường</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đi sai phần đường</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>đi không đúng làn đường</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đi sai làn</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>đi quá dải phân cách</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>vượt quá dải phân cách</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>đi</a> <l>trên hè phố</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>chạy</a> <tv>ô tô</tv> <l>trên vỉa hè</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>chạy dưới tốc độ tối thiểu</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm d khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chạy quá chậm</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm d khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> xe <tv>ô tô</tv> <a>gây ùn tắc giao thông</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm đ khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <a>gây ùn tắc</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm đ khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> xe <tv>ô tô</tv> <a>gây ùn tắc giao thông</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm đ khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <a>gây ùn tắc</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm đ khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> <a>gây ùn tắc giao thông</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm đ khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> <a>gây ùn tắc</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm đ khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>xe <tv>ô tô</tv> <a>lắp đặt thiết bị phát tín hiệu của xe ưu tiên</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>xe <tv>ô tô</tv> <a>không thực hiện biện pháp đảm bảo an toàn</a> <if4>khi bị hỏng</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm g khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không đảm bảo an toàn</a> <if4>khi bị hỏng</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm g khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>không tuân thủ quy định</a> <if4>khi ra vào đường cao tốc</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>lái ẩu</a> <if4>khi ra vào đường cao tốc</if4> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>chạy</a> ở <l>làn dừng xe khẩn cấp</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chạy</a> trên <l>làn dừng xe khẩn cấp</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>chạy</a> ở <l>phần lề đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chạy</a> trên <l>lề đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>chuyển làn không đúng nơi quy định</a> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>chuyển làn sai nơi</a> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>điều khiển xe <tv>ô tô</tv> <a>chuyển làn không có tín hiệu</a> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>không có tín hiệu</a> khi <tv>ô tô</tv> <a>chuyển làn</a> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> xe <tv>ô tô</tv> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>quay đầu</a> <tv>ô tô</tv> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> xe <tv>ô tô</tv> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>lùi</a> <tv>ô tô</tv> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>không giữ đủ khoảng cách với xe đi trước</a> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>ô tô</tv> <a>đi quá gần với xe đằng trước</a> <l>trên đường cao tốc</l> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm h khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>trên hầm đường bộ</l> <a>không đúng nơi quy định</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm i khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>dừng</a> <tv>ô tô</tv> <l>trong hầm</l> <a>sai nơi quy định</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm i khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trên hầm đường bộ</l> <a>không đúng nơi quy định</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm i khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>ô tô</tv> <l>trong hầm</l> <a>sai nơi quy định</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>800.000 đồng đến 1.200.000 đồng</answer>
+		<base>điểm i khoản 4 điều 5 nghị định 46-2016</base>
+	</test>
+</root>

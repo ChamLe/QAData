@@ -1,0 +1,19 @@
+1.	Tổng số tag: 16
+2.	Tổng số nội dung các loại thẻ khác nhau: 1285
+3.	Số lượng từng loại:
+a	475
+ac	3
+ano	53
+dl	23
+if1	70
+if2	6
+if3	147
+if4	100
+l	139
+qt	137
+sp	2
+ti	4
+tl	8
+tp	11
+tv	57
+v	49

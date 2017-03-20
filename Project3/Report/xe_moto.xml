@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<test>
+	<question>xe mô tô có được chở 2 người trên xe không</question>
+	<answer>có trong trương hợp:  chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 14 tuổi.</answer>
+</test>
+<test>
+	<question>xe mô tô được phép trở mấy người trên xe</question>
+	<answer>được chở 1 người và chở 2 người trong trường hợp: chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 14 tuổi.</answer>
+</test>
+<test>
+	<question>xe gắn máy được phép chở mấy người</question>
+	<answer>được chở 1 người và chở 2 người trong trường hợp: chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 14 tuổi.</answer>
+</test>
+<test>
+	<question>xe gắn máy chở 2 người trên xe và có bệnh nhân cần cấp cứu thì có vi phạm luật giao thông không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe mô tô chở 2 người trên xe và có một trẻ 12 tuổi thì có vi phạm luật giao thông không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe gắn máy trở 2 trẻ em 15 tuổi có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đội mũ bảo hiểm không cài quai có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe mô tô có cần phải đội mũ bảo hiểm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe máy lên vỉa hè có vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được đi xe máy lên vỉa hè không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe mô tô đi sang làn đường dành cho ô tô có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được sử dụng ô lúc lái xe máy không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>sử dụng ô trong lúc đi xe máy có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>vừa đi xe máy vừa nghe điện thoại có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được phép nghe điện thoại di động trong lúc đi xe máy không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>đeo tai nghe lúc đi xe máy có vi phạm luật giao thông không</question>
+	<answer>có. trừ trường hợp là thiết bị trợ thính</answer>
+</test>
+<test>
+	<question>có được sử dụng xe máy để kéo xe khác không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe máy kéo theo một xe máy khác đi trên đường có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>buông cả 2 tay lúc lái xe có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>nghe nhạc lúc đi xe máy có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>chở 1 người ngồi lên tay lái của xe máy có bị cấm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người ngồi đằng sau xe máy đứng lên giá đèo có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>khi đi xe máy có hành vi đứng lên yên xe có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+</root>

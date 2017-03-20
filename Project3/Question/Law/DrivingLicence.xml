@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<test>
+		<question>có <qt>cần</qt> <if3>mang theo giấy phép lái xe</if3> khi <if3>đi xe</if3> <qt>không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><a>điều khiển xe cơ giới</a> <qt>có cần</qt> phải có <dl>giấy phép lái xe</dl> <qt>không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe</dl> <qt>có cần</qt> lúc đi xe hay <qt>không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><if3>chưa có giấy phép lái xe</if3> thì <qt>có được đi xe không</qt></question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question>sử dụng <tv>xe máy</tv> nhưng <if3>chưa có bằng lái xe</if3> thì có <qt>vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a1</dl> cấp cho người đi <qt>loại xe nào</qt></question>
+		<answer>xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a2</dl> cấp cho người đi <qt>loại xe nào</qt></question>
+		<answer>xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng a1</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a3</dl> cấp cho người đi <qt>loại xe nào</qt></question>
+		<answer>xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng a1 và các xe tương tự</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng a4</dl> cấp cho người đi <qt>loại xe nào</qt></question>
+		<answer>hạng a4 cấp cho người lái máy kéo có trọng tải đến 1.000 kg</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b1</dl> cấp cho người đi <qt>loại xe nào</qt></question>
+		<answer>hạng b1 cấp cho người không hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng b2</dl> cấp cho người đi <qt>loại xe nào</qt></question>
+		<answer>hạng b2 cấp cho người hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng c<dl>  cấp cho người đi <qt>loại xe nào</qt></question>
+		<answer>hạng c cấp cho người lái xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên và các loại xe quy định cho các giấy phép lái xe hạng b1, b2;</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng d</dl> cấp cho người đi <qt>loại xe nào</qt></question>
+		<answer>hạng d cấp cho người lái xe ô tô chở người từ 10 đến 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng b1, b2, c;</answer>
+	</test>
+	<test>
+		<question><dl>giấy phép lái xe hạng e</dl> cấp cho người đi <qt>loại xe nào</qt></question>
+		<answer>hạng e cấp cho người lái xe ô tô chở người trên 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng b1, b2, c, d</answer>
+	</test>
+	<test>
+		<question><if3>16 tuổi</if3> thì <qt>được lái xe gì</qt></question>
+		<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3</answer>
+	</test>
+	<test>
+		<question>trẻ em <if3>15 tuổi</if3> đi <tv>xe máy</tv> <qt>có bị vi phạm luật giao thông không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question>trẻ em <if3>15 tuổi</if3> đi <tv>xe máy</tv> <qt>có bị vi phạm luật không</qt></question>
+		<answer>có</answer>
+	</test>
+	<test>
+		<question>trẻ <if3>17 tuổi</if3> <qt>có được</qt>  lái  <tv>xe gắn máy</tv> có <if1>dung tích xi-lanh 70 cm3</if1> <qt>không</qt></question>
+		<answer>không</answer>
+	</test>
+	<test>
+		<question><qt>bao nhiêu tuổi</qt> thì được đi <tv>xe máy</tv></question>
+		<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3; người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm3 trở lên </answer>
+	</test>
+	<test>
+		<question><if3>18 tuổi</if3> thì <qt>được lái những loại xe gì</qt></question>
+		<answer>người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg; xe ô tô chở người đến 9 chỗ ngồi</answer>
+	</test>
+	<test>
+		<question><qt>bao nhiêu tuổi</qt> thì <a>được lái xe ô tô tải</question>
+		<answer>18 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question>người  lái  xe <tv>ô tô</tv> <if1>9 chỗ ngồi</if1> phải đủ <qt>bao nhiêu tuổi</qt></question>
+		<answer>18 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question>người  lái  xe <tv>ô tô</tv> <if1>10 đến 30 chỗ ngồi</if1> phải đủ <qt>bao nhiêu tuổi</qt></question>
+		<answer>24 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question><qt>bao nhiêu tuổi</qt> thì được lái xe <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1></question>
+		<answer>27 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question><if3>tuổi tối đa</if3> của người lái xe <tv>ô tô</tv> <if1>trên 30 chỗ ngồi</if1> là <qt>bao nhiêu</qt></question>
+		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+	</test>
+	<test>
+		<question>nam <qt>bao nhiêu tuổi</qt> thì <a>không được lái xe ô tô</a> <if1>trên 30 chỗ ngồi</if1></question>
+		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+	</test>
+	<test>
+		<question>nữ <qt>bao nhiêu tuổi</qt> thì <a>không được lái xe ô tô</a> <if1>trên 30 chỗ ngồi</if1></question>
+		<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+	</test>
+	<test>
+		<question><qt>bao nhiêu tuổi</qt> thì được <if3>thi bằng lái xe</if3></question>
+		<answer>18 tuổi trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> thì được <a>nâng hạng</a> <dl>b1 số tự động</dl> <a>lên b1</a></question>
+		<answer>thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 6 tháng</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 1 năm và 9.000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 2 năm và 9.000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 2 năm và 13.000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 15 tháng và 13.000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 23 tháng và 11.000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1 số tự động</dl> <if3>lái xe được 13.000 km</if3> thì <qt>có được</qt> <a>nâng lên b1</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b1</dl> <a>lên b2</a> <qt>là gì</qt></question>
+		<answer>thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 13.000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 2 năm và 13.000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 7 tháng và 13.000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 7 tháng và 9.000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 24 tháng và 9.000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 24 tháng và 12.000 km</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b1</dl> <if3>lái xe được 8 tháng</if3> thì <qt>có được</qt> <a>nâng lên b2</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên fc</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 13.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 3 năm</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 12.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 11 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 11 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe<dl> từ <dl>c</dl> <a>lên fc</a></question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe<dl> từ <dl>d</dl> <a>lên fc</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 13.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 3 năm</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 12.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 11 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 11 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên fc</a></question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên fc</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 13.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 3 năm</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 12.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 11 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 11 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên fc</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <if4>e lên fc</if4></question>
+		<answer>thời gian hành nghề 01 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên c</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 40.000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng và 60.000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 32 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên c</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên c</a></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên d</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 40.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 36 tháng và 60.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 32 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên d</a></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên e</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 40.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng và 60.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 32 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên e</a></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên f</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 40.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng và 60.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 32 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên f</a></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên f</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 40.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 36 tháng và 60.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 24 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng d</dl> <if3>lái xe được 32 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>d</dl> <a>lên f</a></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên f</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 40.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 36 tháng và 60.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 24 tháng và 50.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng e</dl> <if3>lái xe được 32 tháng và 30.000 km</if3> thì <qt>có được</qt> <a>nâng lên f</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>e</dl> <a>lên f</a></question>
+		<answer>thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên d</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 40.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 80.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 5 năm và 100.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được 24 tháng và 200.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng b2</dl> <if3>lái xe được  4 năm và 80.000 km</if3> thì <qt>có được</qt> <a>nâng lên d</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>b2</dl> <a>lên d</a></question>
+		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>điều kiện</qt> để <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên e</a> <qt>là gì</qt></question>
+		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 40.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 36 tháng</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 80.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 5 năm và 100.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được 24 tháng và 200.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question>người có <dl>bằng lái xe hạng c</dl> <if3>lái xe được  4 năm và 80.000 km</if3> thì <qt>có được</qt> <a>nâng lên e</a> <qt>không</qt></question>
+		<answer>điều kiện nâng bằng thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>khi nào</qt> được <a>nâng hạng</a> <dl>giấy phép lái xe</dl> từ <dl>c</dl> <a>lên e</a></question>
+		<answer>thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên</answer>
+	</test>
+	<test>
+		<question><qt>giấy tờ cần thiết</qt> khi đi <if3>thi bằng lái xe</if3> <qt>là gì</qt></question>
+		<answer>đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định; bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người việt nam; hộ chiếu còn thời hạn đối với người nước ngoài, người việt nam định cư ở nước ngoài; giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định.</answer>
+	</test>
+	<test>
+		<question>đi thi <if3>nâng hạng bằng</if3> thì <qt>hồ sơ cần những gì</qt></question>
+		<answer>đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định; bản sao giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân đối với người việt nam; hộ chiếu còn thời hạn đối với người nước ngoài, người việt nam định cư ở nước ngoài; giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp theo quy định; bản khai thời gian hành nghề và số km lái xe an toàn theo mẫu quy định tại phụ lục 12 ban hành kèm theo thông tư này và phải chịu trách nhiệm về nội dung khai trước pháp luật; bản sao bằng tốt nghiệp trung học cơ sở hoặc bằng cấp tương đương trở lên đối với trường hợp nâng hạng giấy phép lái xe lên các hạng d, e (xuất trình bản chính khi kiểm tra hồ sơ dự sát hạch); bản sao giấy phép lái xe (xuất trình bản chính khi dự sát hạch và nhận giấy phép lái xe); </answer>
+	</test>
+</root>

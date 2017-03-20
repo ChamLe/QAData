@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<test>
+	<name>Vạch kẻ đường số 1-1</name>
+	<descrip>Vạch liền, nét màu trắng, rộng 10 cm</descrip>
+	<mean>Dùng để phân chia 2 dòng phương tiện giao thông đi ngược chiều nhau, xác định ranh giới phần đường cấm, ranh giới nơi đỗ xe, ranh giới của làn xe ở vị trí nguy hiểm. Đối với vạch này xe không được đè lên vạch</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-2</name>
+	<descrip>Vạch liền, màu trắng, rộng 20 cm</descrip>
+	<mean>Dùng để xác định mép phần xe chạy trên các trục đường. Xe chạy được phép cắt ngang hoặc đè lên vạch khi cần thiết.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-3</name>
+	<descrip>Vạch kép (2 vạch liên tục) màu trắng, có chiều rộng bằng nhau và bằng 10 cm, cách nhau là 10 cm</descrip>
+	<mean>Dùng để phân chia 2 dòng phương tiện giao othong từ 2 hướng ngược chiều nhau trên những đường có từ 4 làn đường trở lên. Xe chạy không được đè qua vạch.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-4</name>
+	<descrip>Vạch liên tục màu vàng có chiều rộng 10 cm</descrip>
+	<mean>Dùng để xác định nơi cấm dừng và cấm đỗ xe.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-5</name>
+	<descrip>Vạch đứt quãng, màu trắng, rộng 10 cm, tỷ lệ L1:L2 = 1:3 (L1: chiều dài vạch trắng, L2: chiều dài khoảng cách)</descrip>
+	<mean>Dùng để phân chia 2 dòng phương tiện giao thông từ 2 hướng ngược chiều nhau trên các đường có 2 hoặc 3 làn xe chạy. Xác định ranh giới làn xe khi có 2 hoặc trên 2 làn xe chạy theo một hướng.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-6</name>
+	<descrip>Vạch đứt quãng màu trắng, rộng 10 cm. Tỷ lệ L1:L2 = 3:1 (L1: chiều dài vạch trắng, L2: chiều dài khoảng cách)</descrip>
+	<mean>Dùng để báo hiệu gần đến vạch 1-1 hay 1-11, để phân chia dòng xe ngược chiều hay cùng chiều</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-7</name>
+	<descrip>Vạch đứt quãng màu trắng rộng 0,1m, khoảng cách giữa hai vạch là 0,5m</descrip>
+	<mean>Vạch được kẻ Theo đường cong Theo chiều xe chạy ở chỗ giao nhau khi lái xe cần định hướng chung để đảm bảo an toàn khi qua chỗ giao nhau.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-8</name>
+	<descrip>Vạch đứt quãng màu trắng rộng0,4m</descrip>
+	<mean>Vạch dùng để quay định danh giới làn xe tăng tốc độ hoặc giảm tốc độ (gọi là chuyển tới làn đường) và làn xe chính của phần xe chạy.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-9</name>
+	<descrip>Vạch kép (hai vạch) đứt quãng, song song, màu trắng rộng 0,1m và cách nhau 0,1 m.</descrip>
+	<mean>Vạch quay định danh giới làn xe dự trữ mà trên làn này chiều xe chạy có thể thay đổi hoặc hoặc chiều thuận hoặc chiều đi ngược lại. Sự thay đổi hướng xe được điều khiển bằng tín hiệu đèn xanh và đỏ đặt trên làn xe.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-10</name>
+	<descrip>Là vạch đứt quãng màu vàng</descrip>
+	<mean>Vạch xác định vị trí hay khu vực cấm đỗ xe.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-11</name>
+	<descrip>Hai vạch song song (vạch kép) màu trắng, một vạch đứt quãng và một vạch liền liền nét</descrip>
+	<mean>Vạch dùng để phân chia dòng phương tiện hai hướng ngược chiều nhau trên các đường có hai hoặc ba làn xe chạy. Lái xe được phép cắt ngang qua vạch từ phía có vạch đứt quãng</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.12</name>
+	<descrip>Vạch này kẻ ngang toàn bộ đường của hướng xe chạy có độ rộng là 0.4m</descrip>
+	<mean>Vạch chỉ rõ vị trí xe phải dừng lại khi có biển báo số 122 “Stop” hoặc khi có tín hiệu đèn đỏ.Trong trường hợp không có biển 122 hoặc không có đèn hay người điều khiển thì vạch 1.12 không có hiệu lực.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.13</name>
+	<descrip>Vạch hình tam giác cân màu trắng </descrip>
+	<mean>Vạch chỉ rõ vị trí mà lái xe phải dừng để nhường cho các phương tiện khác ở đường ưu tiên.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-14</name>
+	<descrip>Vạch "sọc ngựa vằn" gồm các đường màu trắng song song với tim đường, rộng 40 cm, cách nhau 60 cm</descrip>
+	<mean>Vạch quy định nơi người đi bộ qua đường</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1-15</name>
+	<descrip>Vạch gồm 2 vạch đứt quãng chạy song song, cách nhau 1.8 mét, chiều dài, chiều rộng và khỏng cách giữa các vạch của vạch đứt quãng bằng nhau và bằng 40 cm</descrip>
+	<mean>Vạch xác định vị trí chỗ xe đạp đi ngang qua xe đường của xe cơ giới. Xe đạp phải nhường đường cho phương tiện cơ giới chạy trên tuyến đường cắt ngang đường xe đạp.</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.16.1</name>
+	<descrip>“Ngựa vằn” màu trắng</descrip>
+	<mean>Xác định đảo phân chia dòng phương tiện ngược chiều nhau</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.16.2</name>
+	<descrip></descrip>
+	<mean>Vạch xác định đảo phân chia dòng phương tiện Theo cùng một hướng. Tại đó dòng phương tiện chạy cùng hướng được phân chia ra nhiều dòng (làn ) khác nhau</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.17</name>
+	<descrip>Vạch sơn sóng màu vàng</descrip>
+	<mean>Quy định vị trí dừng của xe các phương tiện vận tải Theo tuyến quy định hoặc nơi tập kết của tắc xi, cấm dừng hoặc đỗ của bất kì một lọai phương tiện nào về cả hai phía và cách vạch 15cm</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.18</name>
+	<descrip>Mũi tên màu trắng có hướng</descrip>
+	<mean>Chỉ dẫn các hướng đi cho phép của các làn xe ở nơi giao nhau. Lái xe khi gặp biển này bắt buộc phải tuân Theo mũi tên chỉ hướng đi</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.19</name>
+	<descrip>Mũi tên màu trắng, cong</descrip>
+	<mean>Vạch xác định sắp đến vị trí thắt hẹp của phần xe chạy, báo cho người lái xe biết rằng số làn xe Theo hướng mũi tên bị giảm và lái xe phải từ từ chuyển làn Theo hướng mũi tên</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.20</name>
+	<descrip>Tam giác cân màu trắng</descrip>
+	<mean>Xác định sắp đến gần vạch 113 và biển báo số 108, khoảng cách đến vạch 1.13 Theo tim đường từ 2-2,5m (đường cao tốc có thể lớn hơn), lái xe được phép chạy đè lên vạch 1.13 không cần dừng lại</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.21</name>
+	<descrip>Chữ “Stop” (dừng lại) màu trắng</descrip>
+	<mean>Xác định gần đến vị trí dừng lại vạch 1.12 và biển báo số 122. Vạch 1.21 cách vạch dừng xe từ 2-2,5m</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.22</name>
+	<descrip>Là các chữ số</descrip>
+	<mean>Vạch chỉ số hiệu đường, được kẻ trên đường quốc lộ và được kẻ trực tiếp trên mặt đường xe chạy</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 1.23</name>
+	<descrip>Chữ A</descrip>
+	<mean>Vạch chỉ làn xe dành cho ô to khách chạy Theo tuyến quay định</mean>
+</test>
+<test>
+	<name>Vạch kẻ đường số 2.1</name>
+	<descrip>Vạch trắng xen kẽ nằm xiên với đường năm ngang một góc 45 độ</descrip>
+	<mean>Xác định các bộ phận thẳng đừng của các công trình giao thông như trụ cầu, cầu vượt đường…để chỉ dẫn những chỗ nguy hiểm đối với phương tiện giao thông đi qua.</mean>
+</test>
+</root>

@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không đi bên phải đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm a khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không đi bên phải đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm a khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không đi bên phải đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm a khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đi không đúng phần đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm a khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đi sai phần đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm a khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đi sai phần đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm a khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>dừng xe đột ngột không báo hiệu trước</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm b khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>dừng đột ngột</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm b khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>dừng đột ngột</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm b khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>chuyển hướng đột ngột không báo hiệu trước</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm b khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>rẽ đột ngột</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm b khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>rẽ đột ngột</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm b khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không chấp hành hiệu lệnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không chấp hành hiệu lệnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không chấp hành hiệu lệnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không chấp hành biển báo</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không chấp hành biển báo</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không chấp hành biển báo</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không chấp hành vạch kẻ đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không chấp hành vạch kẻ đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không chấp hành vạch kẻ đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>vượt bên phải khi không được phép</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm d khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>vượt bên phải khi không được phép</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm d khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>vượt bên phải khi không được phép</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm d khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>dừng</a> <l>trong lòng đường</l> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>dừng trong lòng đường</a> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>dừng</a> <l>trong lòng đường</l> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>dừng</a> <l>giữa lòng đường</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>dừng</a> <l>giữa lòng đường</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>dừng</a> <l>giữa lòng đường</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đỗ</a> <l>trong lòng đường</l> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test><test>
+		<question><tv>xe đạp</tv> <a>đỗ</a> <l>trong lòng đường</l> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đỗ</a> <l>trong lòng đường</l> <l>ngoài thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đỗ</a> <l>giữa lòng đường</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đỗ</a> <l>giữa lòng đường</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đỗ</a> <l>giữa lòng đường</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm đ khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>chạy</a> <l>trong hầm đường bộ</l> <a>không có đèn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>chạy</a> <l>trong hầm đường bộ</l> <a>không có đèn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>chạy</a> <l>trong hầm đường bộ</l> <a>không có đèn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>chạy</a> <l>trong hầm</l> mà <a>không có đèn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>chạy</a> <l>trong hầm</l> mà <a>không có đèn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>chạy</a> <l>trong hầm</l> mà <a>không có đèn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>dừng</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>dừng</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>dừng</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>dừng</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>dừng</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>dừng</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đỗ</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đỗ</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đỗ</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đỗ</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đỗ</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đỗ</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>quay đầu</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>quay đầu</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>quay đầu</a> <l>trong hầm đường bộ</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>quay đầu</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>quay đầu</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>quay đầu</a> <l>trong hầm</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm e khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>dàn hàng ngang</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm g khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>dàn hàng ngang</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm g khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>dàn hàng ngang</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm g khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <if3>sử dụng ô dù</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <if3>sử dụng ô dù</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <if3>sử dụng ô dù</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <if3>dùng ô dù</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <if3>dùng ô dù</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <if3>dùng ô dù</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <if3>sử dụng điện thoại di động</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <if3>sử dụng điện thoại di động</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <if3>sử dụng điện thoại di động</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <if3>dùng điện thoại di động</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <if3>dùng điện thoại di động</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <if3>dùng điện thoại di động</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm h khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> đi <if4>ban đêm</if4> <a>không có đèn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm i khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> đi <if4>ban đêm</if4> <a>không có đèn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm i khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> đi <if4>ban đêm</if4> <a>không có đèn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm i khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> đi <if4>ban đêm</if> <a>không có vật phản quang</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm i khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> đi <if4>ban đêm</if> <a>không có vật phản quang</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm i khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> đi <if4>ban đêm</if> <a>không có vật phản quang</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm i khoản 1 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để</a> <tv>xe đạp</tv>, <tv>xe thô sơ</tv> <l>ở lòng đường</l> <l>thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để</a> <tv>xe thô sơ</tv> <l>trong lòng đường</l> <l>nội thành</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để</a> <tv>xe đạp</tv> <l>trong lòng đường</l> <l>thành phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để</a> <tv>xe đạp</tv>, <tv>xe thô sơ</tv> <l>ở hè phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để</a> <tv>xe thô sơ</tv> <l>ở hè phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để</a> <tv>xe đạp</tv> <l>ở hè phố</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để</a> <tv>xe đạp</tv>, <tv>xe thô sơ</tv> <l>trên vỉa hè</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để</a> <tv>xe đạp</tv> <l>trên vỉa hè</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>để</a> <tv>xe thô sơ</tv> <l>trên vỉa hè</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>xe đạp</tv>, <tv>xe thô sơ</tv> <l>trên đường xe điện</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>xe đạp</tv>, <tv>xe thô sơ</tv> <l>trên cầu</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>xe thô sơ</tv> <l>trên cầu</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><a>đỗ</a> <tv>xe đạp</tv> <l>trên cầu</l> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không tuân thủ các quy định dừng, đỗ xe</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không tuân thủ các quy định dừng, đỗ xe</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không tuân thủ các quy định dừng, đỗ xe</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không nhường đường cho xe xin vượt</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không nhường đường cho xe xin vượt</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không nhường đường cho xe xin vượt</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>gây cản trở cho xe xin vượt thì</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>gây cản trở cho xe xin vượt thì</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>gây cản trở cho xe xin vượt thì</a> <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>gây cản trở cho xe ưu tiên</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>gây cản trở cho xe ưu tiên</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>gây cản trở cho xe ưu tiên</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>gây cản trở giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm d khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không nhường đường cho xe đi trên đường ưu tiên</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không nhường đường cho xe đi trên đường ưu tiên</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không nhường đường cho xe đi trên đường ưu tiên</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không nhường đường cho xe đi trên đường chính</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không nhường đường cho xe đi trên đường chính</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không nhường đường cho xe đi trên đường chính</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm đ khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>chở quá số người</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm e khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>chở quá số người</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm e khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>chở quá số người</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm e khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>xếp hàng hóa vượt quá giới hạn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm g khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>xếp hàng hóa vượt quá giới hạn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm g khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>xếp hàng hóa vượt quá giới hạn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm g khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>xếp hàng hóa không đảm bảo an toàn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm g khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>xếp hàng hóa không đảm bảo an toàn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm g khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>xếp hàng hóa không đảm bảo an toàn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm g khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không chấp hành đèn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không chấp hành đèn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không chấp hành đèn giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>vượt đèn đỏ</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>vượt đèn đỏ</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>vượt đèn đỏ</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>vượt đèn vàng</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>vượt đèn vàng</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>vượt đèn vàng</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm h khoản 2 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <if3>buông cả 2 tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <if3>buông cả 2 tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <if3>buông cả 2 tay</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông cả 2 tay</if3> lái <tv>xe đạp</tv>, <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông cả 2 tay</if3> lái <tv>xe đạp</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>buông cả 2 tay</if3> lái <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>chuyển hướng đột ngột trước đầu xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>chuyển hướng đột ngột trước đầu xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>chuyển hướng đột ngột trước đầu xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>dùng chân để điều khiển</if3> <tv>xe đạp</tv>, <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>dùng chân để điều khiển</if3> <tv>xe thô sơ</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><if3>dùng chân để điều khiển</if3> <tv>xe đạp</tv> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm a khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không chấp hành hiệu lệnh của người điều khiển giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm b khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không chấp hành hiệu lệnh của người điều khiển giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm b khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không chấp hành hiệu lệnh của người điều khiển giao thông</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm b khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>không chấp hành hiệu lệnh của cảnh sát</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm b khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>không chấp hành hiệu lệnh của cảnh sát</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm b khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>không chấp hành hiệu lệnh của cảnh sát</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm b khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>bám xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>bám xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>bám xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>kéo xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>kéo xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>kéo xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đẩy xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đẩy xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đẩy xe khác</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>mang vác vật cồng kềnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>mang vác vật cồng kềnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>mang vác vật cồng kềnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>chở đồ cồng kềnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>chở đồ cồng kềnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>chở đồ cồng kềnh</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>80.000 đồng đến 100.000 đồng</answer>
+		<base>điểm c khoản 3 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>lạng lách,</a> <a>đánh võng</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>lạng lách,</a> <a>đánh võng</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>lạng lách,</a> <a>đánh võng</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đuổi nhau trên đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đuổi nhau trên đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đuổi nhau trên đường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm a khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đi bốc đầu</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>bốc đầu</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>bốc đầu</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>bốc đầu</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm b khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>gây tai nạn giao thông không dừng lại</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>gây tai nạn giao thông không giữ nguyên hiện trường</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>gây tai nạn giao thông rồi bỏ trốn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>gây tai nạn giao thông không tham gia cấp cứu người bị nạn</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm c khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>người ngồi trên <tv>xe đạp điện</tv> <if3>không đội mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>xe đạp điện</tv> <if3>không đội mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>người ngồi trên <tv>xe đạp điện</tv> <if3>không cài quai mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>xe đạp điện</tv> <if3>không cài quai mũ bảo hiểm</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>người ngồi trên <tv>xe đạp điện</tv> <if3>cài quai mũ bảo hiểm không đúng cách</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question>lái <tv>xe đạp điện</tv> <if3>cài quai mũ bảo hiểm không đúng cách</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm d khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đi vào đường cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đi vào đường cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đi vào đường cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đi vào khu vực cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đi vào khu vực cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đi vào khu vực cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đi ngược chiều đường một chiều</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đi ngược đường một chiều</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đi ngược đường một chiều</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đi ngược đường một chiều</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đi ngược chiều tại đường có biển cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đi ngược chiều tại đường có biển cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đi ngược chiều tại đường có biển cấm</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>điểm e khoản 4 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đi đường cao tốc</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>khoản 5 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv>, <tv>xe thô sơ</tv> <a>đi trên đường cao tốc</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>khoản 5 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe đạp</tv> <a>đi trên đường cao tốc</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>khoản 5 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tv>xe thô sơ</tv> <a>đi trên đường cao tốc</a> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>100.000 đồng đến 200.000 đồng</answer>
+		<base>khoản 5 điều 8 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>không đi đúng phần đường quy định</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm a khoản 1 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>không chấp hành đèn báo hiệu</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm b khoản 1 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>không chấp hành biển báo</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm b khoản 1 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>không chấp hành vạch kẻ đường</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm b khoản 1 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>không chấp hành hiệu lệnh của người điều khiển giao thông</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>50.000 đồng đến 60.000 đồng</answer>
+		<base>điểm c khoản 1 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>mang, vác vật cồng kềnh</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>gây cản trở giao thông</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm a khoản 2 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>vượt qua giải phân cách</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 2 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>qua đường không đúng nơi quy định</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 2 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>qua đường không đảm bảo an toàn</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm b khoản 2 điều 9 nghị định 46-2016</base>
+	</test>
+	<test>
+		<question><tp>người đi bộ</tp> <if3>đu, bám phương tiện khác</if3> thì <qt>bị phạt bao nhiêu tiền</qt>?</question>
+		<answer>60.000 đồng đến 80.000 đồng</answer>
+		<base>điểm c khoản 2 điều 9 nghị định 46-2016</base>
+	</test>
+</root>

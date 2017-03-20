@@ -1,0 +1,234 @@
+a: không nhường đường  4
+vượt xe  1
+quá gần với xe đi trước  1
+chuyển hướng không nhường cho người đi bộ  1
+chuyển làn không đúng nơi cho phép  1
+chuyển làn không có tín hiệu thông báo  1
+bật đèn chiếu sáng xa  1
+chạy dưới tốc độ tối thiểu  1
+không có tín hiệu  1
+sử dụng thiết bị phát tín hiệu ưu tiên không có giấy phép  1
+mở  1
+để mở cửa  1
+không gắn biển báo hiệu ở phía trước  1
+gần đường sắt  1
+chạy từ đường nhánh ra  1
+không giảm tốc độ  2
+không có tín hiệu báo trước  1
+trái luật  1
+chạy nhanh ra đường chính  1
+chuyển hướng không có tín hiệu  1
+không có tín hiệu khi chuyển hướng  1
+chậm hơn các xe khác cùng chiều mà không đi về bên phải  1
+ngược với chiều của làn đường  2
+không đúng nơi  2
+liên tục  2
+chạy  9
+chạy quá tốc độ quy định  1
+lắp đặt thiết bị phát tín hiệu của xe ưu tiên  1
+không tuân thủ quy định  1
+kéo xe khác  1
+không nhường người đi bộ  1
+không có báo hiệu phía trước  1
+chuyển hướng nhanh  1
+không bật đèn  4
+không sử dụng đèn chiếu sáng gần  1
+trái quy định  1
+chạy quá chậm  1
+đỗ nhưng không báo hiệu  1
+vượt  1
+bật đèn pha  3
+chuyển hướng không giảm tốc độ  1
+quay đầu  28
+đi ngược đường một chiều  1
+gây tai nạn mà không dừng lại  1
+đi ngược chiều  2
+không có báo hiệu  1
+chuyển làn  1
+không giữ khoảng cách an toàn  1
+không đúng chỗ  1
+không nhường cho xe trên đường ưu tiên  2
+gây tai nạn giao thông mà không tham gia cấp cứu người bị nạn  1
+không có tín hiệu báo  1
+không có biển báo hiệu  1
+che khuất biển báo hiệu  1
+không chèn bánh  2
+chở quá số người quy định  1
+lắp còi ưu tiên không được phép  1
+sử dụng thiết bị phát tín hiệu ưu tiên trái phép  1
+chuyển làn sai chỗ  1
+vượt quá dải phân cách  1
+không có biển báo  1
+để cửa xe  1
+không có giấy phép sử dụng thiết bị ưu tiên  1
+đi  1
+lắp đặt thiết bị phát tín hiệu ưu tiên không đúng quy định  1
+không sát lề  1
+không đặt biển báo nguy hiểm  1
+chiếm một phần đường  2
+chạy chậm giữa đường  1
+đi sai phần đường  1
+không sát lề đường  1
+không nhường người khuyết tật  1
+ngược chiều làn đường  2
+đi không đúng làn đường  1
+cách lề đường quá 0.25m  1
+chạy từ ngõ ra  1
+không đúng nơi quy định  3
+rú ga  1
+chuyển làn không báo trước  1
+vào đường cấm  1
+đi vào đường cấm  1
+không đi bên phải  2
+gây tai nạn giao thông mà không giữ nguyên hiện trường  1
+không giữ khoảng cách an toàn với xe đi trước  1
+gây ùn tắc giao thông  3
+lái ẩu  1
+không nhường cho xe muốn vượt  1
+đi vào khu vực cấm  1
+bấm còi không trong thời gian quy định  1
+dừng  18
+bấm còi  2
+song song với một xe đang đỗ  1
+chuyển làn không đúng nơi quy định  1
+quá tốc độ  2
+chuyển làn không có tín hiệu  1
+khi tránh xe khác  1
+chuyển làn sai nơi  1
+đi quá gần với xe đằng trước  2
+chạy nhanh từ ngõ ra  1
+chở người  2
+không gắn biển báo hiệu ở phía sau  1
+sử dụng đèn chiếu xa  2
+không có tín hiệu khi lùi  1
+không đảm bảo an toàn  1
+không nhường xe thô sơ  1
+chuyển hướng  2
+không giữ đủ khoảng cách với xe đi trước  1
+gây tai nạn giao thông mà không dừng lại  1
+kéo xe rơ moóc  1
+gây tai nạn mà không cấp cứu người bị nạn  1
+che khuất biển báo  1
+không thực hiện biện pháp đảm bảo an toàn  1
+không có biển báo phía sau  1
+chở quá số người  1
+không nhường đường cho người khuyết tật  1
+không sử dụng đèn chiếu sáng  3
+sai nơi  1
+kéo theo xe khác  1
+đi quá dải phân cách  1
+gây tai nạn và không giữ nguyên hiện trường  1
+đi sai làn  1
+kéo xe rơ moóc khác  1
+ngay cạnh xe khác  1
+không nhường đường cho xe thô sơ  1
+đỗ  55
+không quan sát  2
+đi không đúng phần đường  1
+đẩy xe khác  2
+gây ùn tắc  3
+không nhường đường cho xe xin vượt  1
+đỗ cách lề 1m  1
+vào vùng cấm  1
+sai nơi quy định  2
+chở quá nhiều người  1
+lùi  12
+không dùng đèn cốt  1
+đi ngược  1
+tv: ô tô  231
+xe rơ moóc  4
+xe bị kéo  2
+ô tô được kéo  2
+xe kéo  2
+qt: bị phạt bao nhiêu  40
+bị phạt bao nhiêu tiền  197
+phạt bao nhiêu tiền  6
+if4: 4h sáng  1
+đường hẹp  4
+trên đường có biển cấm đi ngược chiều  1
+khi thời tiết hạn chế tầm nhìn  1
+trên đường cấm đi ngược chiều  1
+khi thời tiết xấu  1
+tại nơi cấm đỗ  1
+tại phạm vi an toàn của đường sắt  1
+tại nơi cấm  1
+tại nơi cấm đi ngược chiều  1
+khi ra vào đường cao tốc  2
+trên đoạn đường tầm nhìn bị che khuất  1
+khi có sướng mù  2
+ở nơi hạn khó quan sát  1
+khi trời tối  2
+ở đoạn đường khó quan sát  1
+tại khúc cua  1
+tại nơi khó quan sát  1
+đường dốc  1
+tại nơi cấm quay đầu xe  1
+trên đoạn đường cong  1
+khi tránh xe ngược chiều  1
+khi bị hỏng  2
+nơi có biển cấm  1
+tại nơi có biển báo cấm quay đầu xe  1
+đường cong  1
+ở khúc cua  1
+tại nơi tầm nhìn bị che khuất  2
+v: 5 đến 10 km/h  1
+9km/h  1
+6km/h  1
+root:   1
+if3: sử dụng điện thoại khi đang lái xe  1
+nghe điện thoại khi lái  1
+không thắt dây an toàn  3
+l: giữa dốc  1
+trong nội thành  1
+trên đường  2
+trên cống thoát nước  1
+trong hầm  5
+trên cầu  3
+bên trái đường một chiều  1
+tại nơi có biển cấm đỗ  1
+nơi giao nhau  1
+trên vỉa hè  2
+nơi dành riêng cho xe chữa cháy lấy nước  1
+tại nơi đường giao nhau  1
+ở bên trái đường một chiều  1
+ngã tư  1
+lề đường cao tốc  1
+ngã 3  2
+trên điểm đỗ của xe buýt  1
+ngã 4  1
+trên miệng hầm đường điện thoại  1
+trong thành phố  1
+trên hầm đường bộ  2
+trong hầm đường bộ  3
+dưới gầm cầu vượt  2
+tại gầm cầu vượt  1
+trên miệng hầm đường điện cao thế  1
+làn dừng xe khẩn cấp  2
+trên đường xe điện  3
+trên miệng cống  1
+trên miệng cống thoát nước  2
+trên miệng hầm  1
+tại phần đường dành cho xe chạy  4
+tại nơi lấy nước của xe cứu hỏa  1
+trên dốc  2
+tại điểm dừng của xe buýt  1
+tại nơi lấy nước của xe chữa cháy  1
+trên đường có biển cấm đi ngược chiều  2
+đầu cầu  2
+ở phần đường cho người đi bộ qua đường  1
+trên đường xe buýt  2
+ở nơi giao với đường sắt  1
+tại nơi bị cấm  1
+trên đường cao tốc  10
+trên đường cho người đi bộ  1
+tại nơi giao nhau  1
+trước cột lấy nước  1
+tại nơi có biển cấm  1
+phần lề đường cao tốc  1
+trên hè phố  2
+trước cổng cơ quan  1
+ngoài thành phố  3
+tại nơi giao nhau với đường sắt  1
+nơi đường bộ giao nhau  1
+trên đường một chiều  3
+tp: người ngồi trên xe  1

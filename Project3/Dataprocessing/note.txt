@@ -1,0 +1,1 @@
+<a>lắp thiết bị phát tín hiệu ưu tiên trái phép</a> -> <if1>lắp thiết bị phát tín hiệu ưu tiên trái phép</if1>

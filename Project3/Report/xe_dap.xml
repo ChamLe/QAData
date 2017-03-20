@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<test>
+	<question>đi xe đạp thì được chở theo mấy người</question>
+	<answer>được chở một người, trừ trường hợp chở thêm một trẻ em dưới 7 tuổi thì được chở tối đa hai người</answer>
+</test>
+<test>
+	<question>xe đạp chở theo 2 người lớn có bị cấm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>chở theo 2 trẻ em 8 tuổi trên xe đạp có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe đạp máy có phải đội mũ bảo hiểm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe đạp lên vỉa hè có vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được đi xe đạp lên vỉa hè không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe đạp đi sang làn đường dành cho xe ô tô có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được sử dụng ô lúc lái xe đạp không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>sử dụng ô trong lúc đi xe đạp có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>vừa đi xe đạp vừa nghe điện thoại có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được phép nghe điện thoại di động trong lúc đi xe đạp không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>đeo tai nghe lúc đi xe đạp có vi phạm luật giao thông không</question>
+	<answer>có. trừ trường hợp là thiết bị trợ thính</answer>
+</test>
+<test>
+	<question>có được sử dụng xe đạp để kéo xe khác không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe đạp kéo theo một xe đạp khác đi trên đường có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>buông cả 2 tay lúc lái xe có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>nghe nhạc lúc đi xe đạp có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>chở 1 người ngồi lên tay lái của xe đạp có bị cấm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người ngồi đằng sau xe đạp đứng lên giá đèo có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>khi đi xe đạp có hành vi đứng lên yên xe có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+</root>

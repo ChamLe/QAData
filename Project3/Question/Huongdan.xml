@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UtF-8"?>
+<root>
+<test>
+	<question>có được phép đua xe trên đường không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>đua xe trên đường có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người cố tính đua xe trên đường có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe lạng lách, đánh võng có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>cơ thể có chất ma túy có được phép đi xe không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>người vừa dùng ma túy có được đi xe không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>người điều khiển xe máy có nồng độ cồn trong máu tối đa cho phép là bao nhiêu</question>
+	<answer>50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+</test>
+<test>
+	<question>khi tham gia giao thông trên đường, người tham gia giao thông được phép có nồng độ cồn trong máu là bao nhiêu</question>
+	<answer>50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+</test>
+<test>
+	<question>nồng độ cồn là bao nhiêu thì vẫn được phép tham gia giao thông trên đường</question>
+	<answer>dưới 50 miligam/100 mililít máu hoặc 0,25 miligam/1 lít khí thở</answer>
+</test>
+<test>
+	<question>nồng độ cồn trong người là 30 miligam/100 mililít máu có được đi xe máy hay không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người đi xe máy có nồng độ cồn 0,3 miligam/1 lít khí thở có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>nồng độ cồn trong máu là 70 miligam/100 mililít thì có được tham gia giao thông không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>người có nồng độ cồn 60 miligam/100 mililít máu có được đi ô tô không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>đi xe với lượng cồn trong máu là 45 miligam/100 mililít máu có bị vi phạm luật giao thông không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>điều khiển xe cơ giới có cần phải có giấy phép lái xe không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>giấy phép lái xe có cần lúc đi xe hay không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>chưa có giấy phép lái xe thì có được đi xe không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>sử dụng xe máy nhưng chưa có bằng lái xe thì có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>bấm còi lúc  21 giờ trong khu đông dân cư có bị cấm không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe máy có được phép bấm còi lúc 4 giờ tại khu đô thị không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>bấm còi, rú ga liên tục trong đô thị thì có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>khi nào nào bấm còi sẽ vi phạm luật giao thông</question>
+	<answer>bấm còi, rú ga liên tục; bấm còi trong thời gian từ 22 giờ đến 5 giờ, bấm còi hơi trong đô thị và khu đông dân cư, trừ các xe được quyền ưu tiên đang đi làm nhiệm vụ</answer>
+</test>
+<test>
+	<question>xe tải bấm còi hơi khi đi trong khu đô thị có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người ngồi hàng ghế phía trước trong xe ô tô cạnh người lái xe ô tô có phải thắt dây an toàn không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe tải sử dụng đèn chiếu xa trong khu đông dân cư có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được phép sử dụng đèn chiếu xa khi tham gia giao thông trong khu đô thị không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>người lái xe ô tô không thắt dây an toàn có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>cả người lái xe và người ngồi cạnh trên hàng ghế trước không thắt dây an toàn có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>khi sử dụng xe ô tô thì ai cần phải thắt dây an toàn</question>
+	<answer>Xe ô tô có trang bị dây an toàn thì người lái xe và người ngồi hàng ghế phía trước trong xe ô tô phải thắt dây an toàn</answer>
+</test>
+<test>
+	<question>người đi đường phải đi bên phải hay bên trái</question>
+	<answer>bên trái</answer>
+</test>
+<test>
+	<question>xe máy đi trên làn đường của ô tô có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>ô tô đi trên làn đường dành cho xe máy có vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe máy vượt đèn đỏ có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>lúc đèn vàng xe có được phép di chuyển hay không</question>
+	<answer>xe phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường</answer>
+</test>
+<test>
+	<question>đèn báo hiệu nhấp nháy màu vàng, xe đã đi quá vạch dừng thì có được đi tiếp hay không</question>
+	<answer>có nhưng phải giảm tốc độ</answer>
+</test>
+<test>
+	<question>đèn báo hiệu nhấp nháy màu vàng, xe có được đi tiếp hay không</question>
+	<answer>có nhưng phải giảm tốc độ</answer>
+</test>
+<test>
+	<question>lúc đèn vàng, xe đã đi quá vạch dừng thì có được đi tiếp hay không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đèn xanh là được đi chưa</question>
+	<answer>được đi</answer>
+</test>
+<test>
+	<question>đợi đến khi đèn báo hiệu chuyển màu gì thì được đi</question>
+	<answer>màu xanh</answer>
+</test>
+<test>
+	<question>đèn báo hiệu màu đỏ thì phải làm gì</question>
+	<answer>dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng thì các xe phải làm gì</question>
+	<answer>người tham gia giao thông ở các hướng dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng thì xe ở phía sau cảnh sát giao thông có được đi tiếp không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng thì xe ở phía sau cảnh sát giao thông có được rẽ phải không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng thì xe ở phía sau cảnh sát giao thông có được rẽ trái không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng thì xe ở phía sau cảnh sát giao thông có được đi thẳng không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng, xe ở phía bên phải cảnh sát giao thông rẽ trái có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng, xe ở phía bên phải cảnh sát giao thông rẽ phải có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng, xe ở phía bên phải cảnh sát giao thông đi thẳng có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng, xe ở phía bên trái có được đi thẳng không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng, xe ở phía bên trái có được rẽ phải không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng, xe ở phía bên trái có được rẽ trái không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay thẳng đứng các xe ở các hướng khác nhau có được di chuyển không</question>
+	<answer>người tham gia giao thông ở các hướng dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông hai tay dang ngang để làm gì</question>
+	<answer>báo hiệu cho người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái của người điều khiển giao thông được đi</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang hai tay, xe ở phía trước cảnh sát giao thông có được rẽ phải không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông danh ngang hai tay, xe ở phía trước cảnh sát giao thông có được rẽ trái không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang hai tay, xe ở phía trước cảnh sát giao thông có được đi thẳng không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang hai tay, xe ở phía sau cảnh sát giao thông có được đi thẳng không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang hai tay, xe ở phía sau cảnh sát giao thông có được rẽ phải không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang hai tay, xe ở phía sau cảnh sát giao thông có được rẽ trái không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang hai tay, xe ở phía sau cảnh sát giao thông có được đi tiếp không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang một tay để làm gì</question>
+	<answer>báo hiệu cho người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái của người điều khiển giao thông được đi</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang một tay, xe ở phía trước cảnh sát giao thông có được rẽ phải không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông danh ngang một tay, xe ở phía trước cảnh sát giao thông có được rẽ trái không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang một tay, xe ở phía trước cảnh sát giao thông có được đi thẳng không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang một tay, xe ở phía sau cảnh sát giao thông có được đi thẳng không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang một tay, xe ở phía sau cảnh sát giao thông có được rẽ phải không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang một tay, xe ở phía sau cảnh sát giao thông có được rẽ trái không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông dang ngang một tay, xe ở phía sau cảnh sát giao thông có được đi tiếp không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước thì các xe phải đi như thế nào</question>
+	<answer>người tham gia giao thông ở phía sau và bên phải người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía trước người điều khiển giao thông được rẽ phải; người tham gia giao thông ở phía bên trái người điểu khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước, xe máy phía sau lưng cảnh sát giao thông có được đi hay không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước, xe máy ở sau lưng cảnh sát giao thông có được rẽ trái không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước, xe máy ở sau lưng cảnh sát giao thông có được rẽ phải không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước, xe máy đằng sau lưng cảnh sát giao thông có được đi thẳng không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>khi cảnh sát giao thông giơ tay phải về phía trước thì xe ở bên phải cảnh sát giao thông có phải dừng lại không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước xe ở bên phải cảnh sát giao thông vẫn đi thì có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước xe ở bên phải cảnh sát giao thông có được rẽ phải không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước xe ở bên phải cảnh sát giao thông có được rẽ trái không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước xe ở bên phải cảnh sát giao thông có được đi thẳng không</question>
+	<answer>không, xe phải dừng lại</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước xe ở bên trái cánh sát giao thông được đi hay không</question>
+	<answer>xe được phép rẽ tất cả các hướng</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước thì xe ở bên trái rẽ trái có bị vi phạm luật hay không</question>
+	<answer>không, xe được đi tất cả các hướng</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước thì xe ở bên trái có được rẽ phải hay không</question>
+	<answer>có, xe được đi tất cả các hướng</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trước thì xe ở bên trái đi thẳng có được không</question>
+	<answer>có, xe được đi tất cả cả hướng</answer>
+</test>
+<test>
+	<question>cảnh sát giao thông giơ tay phải về phía trươc thì xe ở bên trái cảnh sát giao thông có phải dừng lại không</question>
+	<answer>không, xe được đi tất cả cả hướng</answer>
+</test>
+<test>
+	<question>xe ở phía trước cảnh sát giao thông, trường hợp cảnh sát giao thông giơ tay phải về phía trước thì xe có được đi thẳng không</question>
+	<answer>không, xe chỉ được rẽ phải</answer>
+</test>
+<test>
+	<question>xe ở phía trước cảnh sát giao thông, trường hợp cảnh sát giao thông giơ tay phải về phía trước thì xe có được rẽ trái không</question>
+	<answer>không, xe chỉ được rẽ phải</answer>
+</test>
+<test>
+	<question>xe ở phía trước cảnh sát giao thông, trường hợp cảnh sát giao thông giơ tay phải về phía trước thì xe có được đi phải không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe ở phía trước cảnh sát giao thông, trường hợp cảnh sát giao thông giơ tay phải về phía trước thì xe có phải dừng lại không</question>
+	<answer>không, xe chỉ được rẽ phải</answer>
+</test>
+<test>
+	<question>có bao nhiêu loại biển báo đường bộ</question>
+	<answer>có 5 nhóm: biển báo cấm, biển báo nguy hiểm, biển báo hiệu lệnh, biển báo chỉ dẫn, biển phụ</answer>
+</test>
+<test>
+	<question>biển báo nào để biểu thị các điều cấm</question>
+	<answer>biển báo cấm</answer>
+</test>
+<test>
+	<question>biển báo nào để cảnh báo các tình huống nguy hiểm có thể xảy ra</question>
+	<answer>biển báo nguy hiểm</answer>
+</test>
+<test>
+	<question>biển báo nào để báo các hiệu lệnh phải thi hành</question>
+	<answer>biển hiệu lệnh</answer>
+</test>
+<test>
+	<question>biển báo nào để chỉ dẫn hướng đi hoặc các điều cần biết</question>
+	<answer>biển chỉ dẫn</answer>
+</test>
+<test>
+	<question>biển báo nào để thuyết minh bổ sung các loại biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn</question>
+	<answer>biển phụ</answer>
+</test>
+<test>
+	<question>biển báo cấm để làm gì</question>
+	<answer>biểu thị các điều cấm</answer>
+</test>
+<test>
+	<question>biển báo nguy hiểm để làm gì</question>
+	<answer>cảnh báo các tình huống nguy hiểm có thể xảy ra</answer>
+</test>
+<test>
+	<question>biển báo hiệu lệnh để làm gì</question>
+	<answer>báo các hiệu lệnh phải thi hành</answer>
+</test>
+<test>
+	<question>biển báo chỉ dẫn để làm gì</question>
+	<answer>chỉ dẫn hướng đi hoặc các điều cần biết</answer>
+</test>
+<test>
+	<question>biển phụ nhằm mục đích gì</question>
+	<answer>thuyết minh bổ sung các loại biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn</answer>
+</test>
+<test>
+	<question>khi bổ sung thông tin cho biển báo khác thì dùng biển báo gì</question>
+	<answer>biển phụ</answer>
+</test>
+<test>
+	<question>vạch kẻ đường để làm gì</question>
+	<answer>phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại</answer>
+</test>
+<test>
+	<question>đường được phân thành các làn nhờ</question>
+	<answer>vạch kẻ đường</answer>
+</test>
+<test>
+	<question>ở mép các đoạn đường nguy hiểm có đặt cọc tiêu hoặc tường bảo vệ để làm gì</question>
+	<answer>hướng dẫn cho người tham gia giao thông biết phạm vi an toàn của nền đường và hướng đi của đường</answer>
+</test>
+<test>
+	<question>đơn vị nào quy định về báo hiệu đường bộ</question>
+	<answer>bộ trưởng bộ giao thông vận tải</answer>
+</test>
+<test>
+	<question>khi nào thì được vượt xe khác</question>
+	<answer>chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác và đã tránh về bên phải. xe xin vượt phải có báo hiệu bằng đèn hoặc còi.trong đô thị và khu đông dân cư từ 22 giờ đến 5 giờ chỉ được báo hiệu xin vượt bằng đèn</answer>
+</test>
+<test>
+	<question>xe đi trước có tín hiệu báo vượt xe khác thì có được vượt xe đi trước hay không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>phía trước có một xe tải đi ngược chiều thì có được vượt xe đi trước không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>khi vượt xe mà không có tín hiệu báo xin vượt có bị phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>khi có xe phía sau xin vượt thì xe phía trước phải đi như thế nào</question>
+	<answer>người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt</answer>
+</test>
+<test>
+	<question>khi xe phía sau xin vượt thì xe phía trước có phải giảm tốc độ không </question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>khi vượt thì xe vượt về phía bên nào</question>
+	<answer>các xe phải vượt về bên trái, trừ các trường hợp sau đây thì được phép vượt bên phải: khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường; khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được
+<test>
+	<question>khi xe phía trước có tín hiệu rẽ trái thì xe phía sau có vượt về phía bên phải được không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>khi xe phía trước có tìn hiệu rẽ trái thì xe phía sau nên vượt về phía bên nào</question>
+	<answer>bên phải</answer>
+</test>
+<test>
+	<question>khi xe phía trước đang rẽ trái xe phía sau nên vượt về phía bên nào</question>
+	<answer>bên phải</answer>
+</test>
+<test>
+	<question>khi xe điện đang chạy giữa đường thì có được vượt về phía bên phải không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>trương hợp nào thì không được vượt xe</question>
+	<answer>trên cầu hẹp có một làn xe; đường vòng, đầu dốc và các vị trí có tầm nhìn hạn chế; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt; xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ</answer>
+</test>
+<test>
+	<question>xe máy đi trên cầu có một làn xe có được phép vượt xe khác không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>chỗ đường vòng, đầu dốc có được vượt xe khác không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>tại các điểm giao nhau thì có được vượt xe khác không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>tại ngã tư xe máy vượt xe ô tô có bị vi phạm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe máy có được vượt xe cứu thương không</question>
+	<answer>trong trường hợp xe đang đi làm nhiệm vụ thì không được vượt</answer>
+</test>
+<test>
+	<question>xe ô tô có được vượt xe cứu hỏa không</question>
+	<answer>trong trường hợp xe đang đi làm nhiệm vụ thì không được vượt</answer>
+</test>
+<test>
+	<question>khi muốn rẽ trái người điều khiển xe phải làm gì</question>
+	<answer>giảm tốc độ và có tìn hiệu báo hướng rẽ</answer>
+</test>
+<test>
+	<question>khi muốn rẽ trái thì người điều khiển xe phải làm gì</question>
+	<answer>giảm tốc độ và có tìn hiệu báo hướng rẽ</answer>
+</test>
+<test>
+	<question>không được quay đầu xe ở những đoạn đường nào</question>
+	<answer>phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, trong hầm đường bộ, đường cao tốc, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất</answer>
+</test>
+<test>
+	<question>xe quay đầu ở phần đường danh cho người đi bộ qua đường có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được quay đầu xe ở trên cầu không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>có được quay đầu xe ở gầm cầu vượt không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>có được quay đầu xe ở trong hầm đường bộ không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>có được quay đầu xe ở trên đường cao tốc không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe xuống dốc phải nhường đường cho xe xuống dốc không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe máy đang xuống dốc xe tải đang lên dốc. xe nào phải nhường đường cho xe nào</question>
+	<answer>xe xuống dốc phải nhường đường cho xe lên dốc</answer>
+</test>
+<test>
+	<question>hai xe ô tô đi ngược chiều nhau có được dùng đèn chiếu xa không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe ô tô đối diện dùng đèn chiếu xa chiếu vào xe máy thì xe ô tô có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>dừng xe bên trái đường một chiều có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được dùng xe bên trái đường một chiều không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>dừng xe trên cầu vượt có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được phép dừng xe ở gầm cầu vượt không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe ô tô đang dừng ở trên cầu vượt có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>một xe ô tô đang dừng trên đường, một xe ô tô khác có được phép dừng song song với xe đó không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe có được phép dừng ở trên phần đường dành cho người đi bộ qua đường không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe có được phép dừng ở nơi dừng của xe buýt không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe ô tô dừng ở nơi dừng của xe buýt có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe ô tô tải dừng xe làm che lấp biển báo giao thông bên đường có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người điều khiển giao thông không được dừng đỗ ở những vị trí nào</question>
+	<answer>bên trái đường một chiều; trên các đoạn đường cong và gần đầu dốc tầm nhìn bị che khuất; trên cầu, gầm cầu vượt; song song với một xe khác đang dừng, đỗ; trên phần đường dành cho người đi bộ qua đường; nơi đường giao nhau và trong phạm vi 5 mét tính từ mép đường giao nhau; trước cổng và trong phạm vi 5 mét hai bên cổng trụ sở cơ quan, tổ chức; tại nơi phần đường có bề rộng chỉ đủ cho một làn xe; trong phạm vi an toàn của đường sắt; che khuất biển báo hiệu đường bộ.</answer>
+</test>
+<test>
+	<question>khi nào thì được phép chở người trên ô tô chở hàng</question>
+	<answer>chở người đi làm nhiệm vụ phòng, chống thiên tai hoặc thực hiện nhiệm vụ khẩn cấp; chở cán bộ, chiến sĩ của lực lượng vũ trang nhân dân đi làm nhiệm vụ; chở người bị nạn đi cấp cứu; chở công nhân duy tu, bảo dưỡng đường bộ; chở người đi thực hành lái xe trên xe tập lái; chở người diễu hành theo đoàn; giải tỏa người ra khỏi khu vực nguy hiểm hoặc trong trường hợp khẩn cấp khác theo quy định của pháp luật.</answer>
+</test>
+<test>
+	<question>có được chở người trên ô tô chở hàng không</question>
+	<answer>không. chỉ được chở người trên ô tô chở hàng trong trường hợp: chở người đi làm nhiệm vụ phòng, chống thiên tai hoặc thực hiện nhiệm vụ khẩn cấp; chở cán bộ, chiến sĩ của lực lượng vũ trang nhân dân đi làm nhiệm vụ; chở người bị nạn đi cấp cứu; chở công nhân duy tu, bảo dưỡng đường bộ; chở người đi thực hành lái xe trên xe tập lái; chở người diễu hành theo đoàn; giải tỏa người ra khỏi khu vực nguy hiểm hoặc trong trường hợp khẩn cấp khác theo quy định của pháp luật.</answer>
+</test>
+<test>
+	<question>chở người trên ô tô chở hàng có vi phạm luật giao thông không</question>
+	<answer>có. trừ trường hợp: chở người đi làm nhiệm vụ phòng, chống thiên tai hoặc thực hiện nhiệm vụ khẩn cấp; chở cán bộ, chiến sĩ của lực lượng vũ trang nhân dân đi làm nhiệm vụ; chở người bị nạn đi cấp cứu; chở công nhân duy tu, bảo dưỡng đường bộ; chở người đi thực hành lái xe trên xe tập lái; chở người diễu hành theo đoàn; giải tỏa người ra khỏi khu vực nguy hiểm hoặc trong trường hợp khẩn cấp khác theo quy định của pháp luật.</answer>
+</test>
+<test>
+	<question>những xe nào được quyền ưu tiên đi trước xe khác</question>
+	<answer>xe chữa cháy đi làm nhiệm vụ; xe quân sự, xe công an đi làm nhiệm vụ khẩn cấp, đoàn xe có xe cảnh sát dẫn đường; xe cứu thương đang thực hiện nhiệm vụ cấp cứu; xe hộ đê, xe đi làm nhiệm vụ khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật; đoàn xe tang</answer>
+</test>
+<test>
+	<question>khi có tín hiệu của xe ưu tiên thì người đi đường phải làm gì</question>
+	<answer>nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên phải để nhường đường. không được gây cản trở xe được quyền ưu tiên</answer>
+</test>
+<test>
+	<question>xe chữa cháy với xe quân sự xe nào được ưu tiên hơn</question>
+	<answer>xe chữa cháy</answer>
+</test>
+<test>
+	<question>xe chữa cháy hay xe cứu thương được ưu tiên hơn</question>
+	<answer>xe chữa cháy</answer>
+</test>
+<test>
+	<question>xe quân sự hay xe cứu thương được ưu tiên hơn</question>
+	<answer>xe quân sự</answer>
+</test>
+<test>
+	<question>xe hộ đê hay xe tang được ưu tiên hơn</question>
+	<answer>xe hộ đê</answer>
+</test>
+<test>
+	<question>xe quân sự có được ưu tiên không</question>
+	<answer>có được ưu tiên trong trường hợp đi làm nhiệm vụ khẩn cấp</answer>
+</test>
+<test>
+	<question>xe cứu thương có được ưu tiên không</question>
+	<answer>có được ưu tiên trong trường hợp đang thực hiện nhiệm vụ cấp cứu</answer>
+</test>
+<test>
+	<question>xe chữa cháy có được ưu tiên không</question>
+	<answer>có được ưu tiên trong trường hợp đang đi làm nhiệm vụ</answer>
+</test>
+<test>
+	<question>đoàn xe tang có được ưu tiên không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe ưu tiên có được vượt đèn đỏ không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe cấp cứu có được đi vào đường ngược chiều không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe chữa cháy đi vào đường ngược chiều có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>các xe ưu tiên có bị hạn chế tốc độ không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>các xe ưu tiên thì có các quyền gì</question>
+	<answer>không bị hạn chế tốc độ; được phép đi vào đường ngược chiều, các đường khác có thể đi được, kể cả khi có tín hiệu đèn đỏ và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông</answer>
+</test>
+<test>
+	<question>xe máy đi đến ngã ba không có báo hiệu đi theo vòng xuyến một xe máy khác đi đến từ hướng bên phải, xe nào phải nhường xe nào</question>
+	<answer>xe phải nhường đường cho xe đi đến từ bên phải</answer>
+</test>
+<test>
+	<question>xe ô tô đi đến ngã ba có báo hiệu đi theo vòng xuyến, xe ô tô phải nhường đường cho xe đi đến từ hướng nào</question>
+	<answer>xe phải nhường đường cho xe đi bên trái</answer>
+</test>
+<test>
+	<question>xe đi đến ngã tư không có báo hiệu đi theo vòng xuyến, xe phải nhường đường cho xe đi đến từ hướng nào</question>
+	<answer>xe phải nhường đường cho xe đi đến từ bên phải</answer>
+</test>
+<test>
+	<question>xe ô tô đang đi trên đường không ưu tiên, đến đoạn giao nhau với đường ưu tiên, xe có phải nhường đường cho các xe trên đường ưu tiên không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe máy đang đi trên đường chính, đến đoạn giao nhau với đường nhánh, xe có phải nhường đường cho xe đi trên đường nhánh không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe máy đang đi trên đường ưu tiên, đến đoạn giao nhau với đường không ưu tiên thì có một xe ô tô đang đi trên đường không ưu tiên, xe nào phải nhường xe nào</question>
+	<answer>xe đi từ đường không ưu tiên phải nhường đường cho xe đi trên đường ưu tiên</answer>
+</test>
+<test>
+	<question>tại nơi đường giao nhau giữa đường không ưu tiên và đường ưu tiên hoặc giữa đường nhánh và đường chính thì thứ tự ưu tiên như thế nào</question>
+	<answer>xe đi từ đường không ưu tiên hoặc đường nhánh phải nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới</answer>
+</test>
+<test>
+	<question>có được phép cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường trên đường cao tốc không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>trên đường cao tốc, xe chạy chậm hơn tốc độ tối thiểu thì có bị phạt không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người đi bộ có được đi trên đường cao tốc không</question>
+	<answer>không; trừ người phục vụ việc quản lý, bảo trì đường cao tốc</answer>
+</test>
+<test>
+	<question>xe gắn máy đi trên đường cao tốc có bị phạt không</question>
+	<answer>xe có vận tốc thiết kế nhỏ hơn 70 km/h không được đi vào đường cao tốc; trừ người, phương tiện, thiết bị phục vụ việc quản lý, bảo trì đường cao tốc</answer>
+</test>
+<test>
+	<question>xe mô tô có được đi trên đường cao tốc không</question>
+	<answer>xe có vận tốc thiết kế nhỏ hơn 70 km/h không được đi vào đường cao tốc; trừ người, phương tiện, thiết bị phục vụ việc quản lý, bảo trì đường cao tốc</answer>
+</test>
+<test>
+	<question>xe máy chuyên dùng có được đi trên đường cao tốc không</question>
+	<answer>xe có vận tốc thiết kế nhỏ hơn 70 km/h không được đi vào đường cao tốc; trừ người, phương tiện, thiết bị phục vụ việc quản lý, bảo trì đường cao tốc</answer>
+</test>
+<test>
+	<question>một xe ô tô kéo theo một xe ô tô, xe ô tô được kéo có cần có người lái không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>một xe ô tô chỉ được kéo theo một xe ô tô hoặc xe máy chuyên dùng khác khi nào</question>
+	<answer>xe không tự chạy được, xe được kéo phải có người điều khiển và hệ thống lái của xe đó phải còn hiệu lực; phía trước của xe kéo và phía sau của xe được kéo phải có biển báo hiệu</answer>
+</test>
+<test>
+	<question>trường hợp nào thì không được thực hiện kéo xe khác</question>
+	<answer>xe kéo rơ moóc, xe kéo sơ mi rơ moóc kéo thêm rơ moóc hoặc xe khác; chở người trên xe được kéo; kéo theo xe thô sơ, xe gắn máy, xe mô tô. </answer>
+</test>
+<test>
+	<question>xe kéo rơ moóc có được kéo thêm xe khác không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe kéo sơ mi rơ moóc có được kéo thêm xe khác không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe kéo rơ moóc kéo thêm một xe rơ moóc khác có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>xe bị mất phanh có được tham gia giao thông trên đường không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe ô tô không có đèn soi biển số thì có được tham gia giao thông trên đường không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>đi xe ô tô không có gương chiếu hậu có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đèn chiếu sáng của xe máy bị hỏng có được tham gia giao thông trên đường không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe chưa đăng ký biển số có được tham gia giao thông trên đường không</question>
+	<answer></answer>
+</test>
+<test>
+	<question>xe mô tô có được chở 2 người trên xe không</question>
+	<answer>có trong trương hợp:  chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 14 tuổi.</answer>
+</test>
+<test>
+	<question>xe mô tô được phép trở mấy người trên xe</question>
+	<answer>được chở 1 người và chở 2 người trong trường hợp: chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 14 tuổi.</answer>
+</test>
+<test>
+	<question>xe gắn máy được phép chở mấy người</question>
+	<answer>được chở 1 người và chở 2 người trong trường hợp: chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 14 tuổi.</answer>
+</test>
+<test>
+	<question>xe gắn máy chở 2 người trên xe và có bệnh nhân cần cấp cứu thì có vi phạm luật giao thông không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe mô tô chở 2 người trên xe và có một trẻ 12 tuổi thì có vi phạm luật giao thông không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe gắn máy trở 2 trẻ em 15 tuổi có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đội mũ bảo hiểm không cài quai có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe mô tô có cần phải đội mũ bảo hiểm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe máy lên vỉa hè có vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được đi xe máy lên vỉa hè không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe mô tô đi sang làn đường dành cho ô tô có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được sử dụng ô lúc lái xe máy không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>sử dụng ô trong lúc đi xe máy có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>vừa đi xe máy vừa nghe điện thoại có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được phép nghe điện thoại di động trong lúc đi xe máy không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>đeo tai nghe lúc đi xe máy có vi phạm luật giao thông không</question>
+	<answer>có. trừ trường hợp là thiết bị trợ thính</answer>
+</test>
+<test>
+	<question>có được sử dụng xe máy để kéo xe khác không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe máy kéo theo một xe máy khác đi trên đường có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>buông cả 2 tay lúc lái xe có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>nghe nhạc lúc đi xe máy có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>chở 1 người ngồi lên tay lái của xe máy có bị cấm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người ngồi đằng sau xe máy đứng lên giá đèo có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>khi đi xe máy có hành vi đứng lên yên xe có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe đạp thì được chở theo mấy người</question>
+	<answer>được chở một người, trừ trường hợp chở thêm một trẻ em dưới 7 tuổi thì được chở tối đa hai người</answer>
+</test>
+<test>
+	<question>xe đạp chở theo 2 người lớn có bị cấm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>chở theo 2 trẻ em 8 tuổi trên xe đạp có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe đạp máy có phải đội mũ bảo hiểm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đi xe đạp lên vỉa hè có vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được đi xe đạp lên vỉa hè không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe đạp đi sang làn đường dành cho xe ô tô có bị vi phạm luật không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được sử dụng ô lúc lái xe đạp không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>sử dụng ô trong lúc đi xe đạp có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>vừa đi xe đạp vừa nghe điện thoại có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có được phép nghe điện thoại di động trong lúc đi xe đạp không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>đeo tai nghe lúc đi xe đạp có vi phạm luật giao thông không</question>
+	<answer>có. trừ trường hợp là thiết bị trợ thính</answer>
+</test>
+<test>
+	<question>có được sử dụng xe đạp để kéo xe khác không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe đạp kéo theo một xe đạp khác đi trên đường có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>buông cả 2 tay lúc lái xe có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>nghe nhạc lúc đi xe đạp có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>chở 1 người ngồi lên tay lái của xe đạp có bị cấm không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người ngồi đằng sau xe đạp đứng lên giá đèo có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>khi đi xe đạp có hành vi đứng lên yên xe có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>người tập lái xe ô tô có được đi xe ô tô của mình trên đường không</question>
+	<answer>không, phải thực hành trên xe tập lái và có giáo viên bảo trợ tay lái.</answer>
+</test>
+<test>
+	<question>người lái xe khi điều khiển phương tiện cần có những giấy tờ gì</question>
+	<answer>đăng ký xe; giấy phép lái xe; giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới; giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới.</answer>
+</test>
+<test>
+	<question>khi đi xe có cần mang theo giấy đăng ký xe không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>có cần mang theo giấy phép lái xe khi đi xe không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>giấy phép lái xe hạng A1 cấp cho người đi loại xe nào</question>
+	<answer>xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3</answer>
+</test>
+<test>
+	<question>giấy phép lái xe hạng A2 cấp cho người đi loại xe nào</question>
+	<answer>xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng A1</answer>
+</test>
+<test>
+	<question>giấy phép lái xe hạng A3 cấp cho người đi loại xe nào</question>
+	<answer>xe mô tô ba bánh, các loại xe quy định cho giấy phép lái xe hạng A1 và các xe tương tự</answer>
+</test>
+<test>
+	<question>giấy phép lái xe hạng A4 cấp cho người đi loại xe nào</question>
+	<answer>hạng A4 cấp cho người lái máy kéo có trọng tải đến 1.000 kg</answer>
+</test>
+<test>
+	<question>giấy phép lái xe hạng b1 cấp cho người đi loại xe nào</question>
+	<answer>hạng b1 cấp cho người không hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;</answer>
+</test>
+<test>
+	<question>giấy phép lái xe hạng b2 cấp cho người đi loại xe nào</question>
+	<answer>hạng b2 cấp cho người hành nghề lái xe điều khiển xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg;</answer>
+</test>
+<test>
+	<question>giấy phép lái xe hạng c cấp cho người đi loại xe nào</question>
+	<answer>hạng c cấp cho người lái xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên và các loại xe quy định cho các giấy phép lái xe hạng b1, b2;</answer>
+</test>
+<test>
+	<question>giấy phép lái xe hạng d cấp cho người đi loại xe nào</question>
+	<answer>hạng d cấp cho người lái xe ô tô chở người từ 10 đến 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng b1, b2, c;</answer>
+</test>
+<test>
+	<question>giấy phép lái xe hạng E cấp cho người đi loại xe nào</question>
+	<answer>hạng E cấp cho người lái xe ô tô chở người trên 30 chỗ ngồi và các loại xe quy định cho các giấy phép lái xe hạng b1, b2, c, d</answer>
+</test>
+<test>
+	<question>16 tuổi thì được lái xe gì</question>
+	<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3</answer>
+</test>
+<test>
+	<question>trẻ em 15 tuổi đi xe máy có bị vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>trẻ 17 tuổi có được lái xe gắn máy có dung tích xi-lanh 70 cm3</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>bao nhiêu tuổi thì được đi xe máy</question>
+	<answer>người đủ 16 tuổi trở lên được lái xe gắn máy có dung tích xi-lanh dưới 50 cm3; người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm3 trở lên </answer>
+</test>
+<test>
+	<question>18 tuổi thì được lái những loại xe gì</question>
+	<answer>người đủ 18 tuổi trở lên được lái xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi-lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg; xe ô tô chở người đến 9 chỗ ngồi</answer>
+</test>
+<test>
+	<question>bao nhiêu tuổi thì được lái xe ô tô tải</question>
+	<answer>18 tuổi trở lên</answer>
+</test>
+<test>
+	<question>người lái xe ô tô 9 chỗ ngồi phải đủ bao nhiêu tuổi</question>
+	<answer>18 tuổi trở lên</answer>
+</test>
+<test>
+	<question>người lái xe ô tô 10 đến 30 chỗ ngồi phải đủ bao nhiêu tuổi</question>
+	<answer>24 tuổi trở lên</answer>
+</test>
+<test>
+	<question>bao nhiêu tuổi thì được lái xe ô tô trên 30 chỗ ngồi</question>
+	<answer>27 tuổi trở lên</answer>
+</test>
+<test>
+	<question>tuổi tối đa của người lái xe ô tô trên 30 chỗ ngồi</question>
+	<answer>50 tuổi đối với nữ và 55 tuổi đối với nam</answer>
+</test>
+<test>
+	<question>nam bao nhiêu tuổi thì không được lái xe ô tô trên 30 chỗ ngồi</question>
+	<answer>55 tuổi</answer>
+</test>
+<test>
+	<question>nữ bao nhiêu tuổi thì không được lái xe ô tô trên 30 chỗ ngồi </question>
+	<answer>50</answer>
+</test>
+<test>
+	<question>người lái xe ô tô được phép lái xe bao nhiêu thời gian một ngày</question>
+	<answer>không được quá 10 giờ trong một ngày</answer>
+</test>
+<test>
+	<question>ngưới lái xe ô tô liên tục 5 tiếng đồng hồ có đảm bảo an toàn không</question>
+	<answer>không</answer>
+</test>
+</root>

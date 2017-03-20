@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<test>
+	<question>xe bị mất phanh có được tham gia giao thông trên đường không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe ô tô không có đèn soi biển số thì có được tham gia giao thông trên đường không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>đi xe ô tô không có gương chiếu hậu có vi phạm luật giao thông không</question>
+	<answer>có</answer>
+</test>
+<test>
+	<question>đèn chiếu sáng của xe máy bị hỏng có được tham gia giao thông trên đường không</question>
+	<answer>không</answer>
+</test>
+<test>
+	<question>xe chưa đăng ký biển số có được tham gia giao thông trên đường không</question>
+	<answer></answer>
+</test>
+<test>
+	<question></question>
+	<answer></answer>
+</test>
+<test>
+	<question></question>
+	<answer></answer>
+</test>
+<test>
+	<question></question>
+	<answer></answer>
+</test>
+<test>
+	<question></question>
+	<answer></answer>
+</test>
+<test>
+	<question></question>
+	<answer></answer>
+</test>
+<test>
+	<question></question>
+	<answer></answer>
+</test>
+
+</root>

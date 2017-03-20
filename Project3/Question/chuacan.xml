@@ -1,0 +1,28 @@
+	<test>
+		<question>tại nơi có <if4>biển hiệu cố định lại có báo hiệu tạm thời</if4> thì <tp>người tham gia giao thông</tp> phải <if3>chấp hành hiệu lệnh</if3> của <qt>báo hiệu nào</qt>?</question>
+		<answer>biển báo hiệu tạm thời.</answer>
+	</test>
+		<test>
+		<question>người lái xe  <if3>cố tình vi phạm luật giao thông đường bộ</if3>, không phân biệt làn đường, vạch phân làn, phóng nhanh, vượt ẩu, vượt đèn đỏ, đi vào đường cấm, đường một chiều <qt>được coi là hành vi nào</qt> trong các hành vi sau đây?</question>
+		<answer>là thiếu văn hóa giao thông.</answer>
+	</test>
+		<test>
+		<question>trên đường giao thông, khi hiệu lệnh của <ti>người điều khiển giao thông</ti> trái với hiệu lệnh của đèn hoặc biển báo hiệu thì <tp>người tham gia giao thông</tp> <qt>phải chấp hành theo hiệu lệnh nào</qt>?</question>
+		<answer>hiệu lệnh của người điều khiển giao thông.</answer>
+	</test>
+		<test>
+		<question>khi điều khiển xe <l>trên đường cao tốc</l>, <qt>những việc nào không cho phép</qt>?</question>
+		<answer>cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường; quay đầu xe, lùi xe; cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo, sơn kẻ trên mặt đường.</answer>
+	</test>
+		<test>
+		<question>khi <tv>xe kéo xe</tv> và <tv>xe kéo rơ-moóc</tv>, <qt><qt>những hành vi nào</qt> không được phép</qt>?</question>
+		<answer>xe kéo rơ moóc, xe kéo sơ mi rơ moóc kéo thêm rơ moóc hoặc xe khác. chở người trên xe được kéo; kéo theo xe thô sơ, xe gắn máy, xe mô tô.</answer>
+	</test>
+		<test>
+		<question>người lái xe  <tv>kinh doanh vận tải</tv> khi <if3>thực hiện tốt việc rèn luyện, nâng cao trách nhiệm, đạo đức nghề nghiệp</if3> sẽ <qt>thu được kết quả như thế nào</qt>?</question>
+		<answer>được khách hàng, xã hội tôn trọng; được đồng nghiệp quý mến, giúp đỡ; được doanh nghiệp tin dùng và đóng góp nhiều cho xã hội. thu hút được khách hàng, góp phần quan trọng trong xây dựng thương hiệu, kinh doanh có hiệu quả cao.</answer>
+	</test>
+		<test>
+		<question><qt>những hành vi nào</qt> sau đây bị cấm?</question>
+		<answer>bấm còi, rú ga liên tục, bấm còi trong thời gian từ 22 giờ đến 5 giờ. bấm còi hơi, sử dụng đèn chiếu xa trong khu đô thị và khu dân cư, trừ các xe ưu tiên khi đang làm nhiêm vụ.</answer>
+	</test>

@@ -1,0 +1,7 @@
+Theo CNN, trang web có tên Starcon mới được thành lập và sau khi đăng ký tài khoản, các thành viên có thể thay ảnh đại diện (Profile) và ảnh trang cá nhân (cover), tìm kiếm bạn bè, gửi tin nhắn, đăng status cũng như duyệt News Feed để xem nội dung mà bạn bè họ đã đăng.Doug Madory, Giám đốc công ty phân tích Dyn Research, phát hiện trang này cuối tuần trước. Ông cho rằng ai đó ở Triều Tiên đã phát triển trang để thử nghiệm.
+  
+  "Thật lạ là website này được đặt (host) ở Triều Tiên. Rất nhiều website Triều Tiên khác đặt tại Trung Quốc. Tôi không chắc đây có phải dự án chính thức của chính phủ Triều Tiên hay không nhưng chắc chắn là ai đó ở trong nước này đã xây dựng mạng xã hội này", Madory nhận định.
+  
+  Ngay sau khi Starcon được phát hiện, sinh viên 18 tuổi Andrew McKean ở Scotland đã tìm ra cách khống chế mạng xã hội "Best Korea's Social Network". Từ đó, cậu có thể điều hướng website tới những trang chống Triều Tiên nếu muốn. Tuy nhiên, đến ngày 31/5, người dùng không thể truy cập được trang này.
+  
+  Facebook và Twitter đã bị chặn ở Triều Tiên vài tháng qua. Từ 1/4, người dùng Internet ở Triều Tiên không tra cứu được địa chỉ hai trang trên.Theo thống kê của Sina, hiện ở Triều Tiên có khoảng hai triệu người dùng điện thoại di động, nhưng rất ít người được truy cập Internet. Họ chủ yếu là các quan chức, kỹ thuật viên hoặc một số người có "tiêu chuẩn đặc biệt" do chính quyền cho phép. Việc lên mạng Internet ở Triều Tiên bị kiểm soát gắt gao. 
